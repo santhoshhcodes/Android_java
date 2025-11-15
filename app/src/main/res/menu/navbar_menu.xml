@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        
+        android:id="@+id/navbarLeave"
+        android:title="Leave"
+        android:icon="@drawable/leavelog"
+        />
+    <item
+        android:id="@+id/navbarPermisssion"
+        android:title="Permission"
+        android:icon="@drawable/permission"
+        />
+    <item
+        android:id="@+id/navbarOnduty"
+        android:title="Onduty"
+        android:icon="@drawable/ondutywork"
+        />
+    <item
+        android:id="@+id/navbarExpense"
+        android:title="Expenses Tracker"
+        android:icon="@drawable/money"
+        />
+
+
+
+</menu>

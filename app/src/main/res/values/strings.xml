@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Scoto</string>
+    <string name="navigation_drawer_close" />
+    <string name="navigation_drawer_open" />
+
+    <!--    <string name="baseurl">http://192.168.0.79:5012/</string>-->
+    <string name="baseurl">http://122.165.249.56:5012/</string>
+</resources>
